@@ -1,0 +1,139 @@
+movies:
+  - title: Dune
+    year: 1984
+    imdb: https://www.imdb.com/title/tt0087182/
+    proposer: @bbenno
+  - title: Chernobyl
+    year: 2019
+    imdb: https://www.imdb.com/title/tt7366338/
+    proposer: @bbenno
+  - title: El Topo
+    year: 1970
+    imdb: https://www.imdb.com/title/tt0067866/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=6Uqb4Jy0GTg
+  - title: The Holy Mountain
+    year: 1973
+    imdb: https://www.imdb.com/title/tt0071615/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=zerBaxPbA94
+  - title: A Girl at My Door
+    year: 2014
+    imdb: https://www.imdb.com/title/tt3661798/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=_slHXNhxMl4
+  - title: Sphere
+    year: 1998
+    imdb: https://www.imdb.com/title/tt0120184/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=GJvKLetIV20
+  - title: Wee Need to Talk About Kevin
+    year: 2011
+    imdb: https://www.imdb.com/title/tt1242460/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=SfQaRK3BCYU
+  - title: The Killing of a Sacred Deer
+    year: 2017
+    imdb: https://www.imdb.com/title/tt5715874/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=CQFdGfwChtw
+    watched: true
+  - title: Tigers Are Not Afraid
+    year: 2017
+    imdb: https://www.imdb.com/title/tt4823434/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=s9ZhT-qrroA
+  - title: The Tree of Life
+    year: 2011
+    imdb: https://www.imdb.com/title/tt0478304/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=RrAz1YLh8nY
+    watched: true
+  - title: Jacob's Ladder
+    year: 1990
+    imdb: https://www.imdb.com/title/tt0099871/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=rJztRnDxdM8
+  - title: Attack of the Killer Tomatoes!
+    year: 1978
+    imdb: https://www.imdb.com/title/tt0080391/
+    proposer: @panda
+  - title: Beasts of No Nation
+    year: 2015
+    imdb: https://www.imdb.com/title/tt1365050/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=2xb9Ty-1frw
+  - title: Wie ich lernte bei mir selbst Kind zu sein
+    year: 2019
+    imdb: https://www.imdb.com/title/tt9806222/
+    proposer: @bbenno
+  - title: Fallen Angels
+    year: 1995
+    imdb: https://www.imdb.com/title/tt0112913/
+    proposer: @panda
+    trailer: https://www.imdb.com/title/tt0112913/
+  - title: M
+    year: 1931
+    imdb: https://www.imdb.com/title/tt0022100/
+    proposer: @xentec
+  - title: Korczak
+    year: 1990
+    imdb: https://www.imdb.com/title/tt0099949/
+    proposer: @bbenno
+  - title: The French Dispatcher
+    year: 2021
+    imdb: https://www.imdb.com/title/tt8847712/
+    proposer: @xentec
+  - title: Happiness
+    year: 1998
+    imdb: https://www.imdb.com/title/tt0147612/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=xR-hvKuV0a8
+  - title: Gayniggers from Outer Space
+    year: 1992
+    imdb: https://www.imdb.com/title/tt0274518/
+    proposer: @panda
+    watched: true
+  - title: Battle Royale
+    year: 2000
+    imdb: https://www.imdb.com/title/tt0266308/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=N0p1t-dC7Ko
+  - title: Mad God
+    year: 2021
+    imdb: https://www.imdb.com/title/tt15090124/
+    proposer: @xentec
+    trailer: https://youtu.be/iPScwQ-FAbI
+  - title: Last and First Men
+    year: 2020
+    imdb: https://imdb.com/title/tt8015444
+    proposer: @bbenno
+  - title: Bad Lieutenant
+    year: 1992
+    imdb: https://www.imdb.com/title/tt0103759/
+    proposer: @bbenno
+  - title: The City of Lost Children
+    year: 1995
+    imdb: https://www.imdb.com/title/tt0112682/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=Pa7oVPru4J8
+  - title: Post Tenebras Lux
+    year: 2012
+    imdb: https://www.imdb.com/title/tt1754367/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=VmYvuW51htw
+  - title: Uncle Boonmee Who Can Recall His Past Lives
+    year: 2010
+    imdb: https://www.imdb.com/title/tt1588895/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=Jk-EoUb0nvg
+  - title: On Body and Soul
+    year: 2017
+    imdb: https://www.imdb.com/title/tt5607714/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=0JnAQvRsTLo
+  - title: Sanctorum
+    year: 2019
+    imdb: https://www.imdb.com/title/tt10658198/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=6_STtq8ho7g
