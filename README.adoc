@@ -1,0 +1,3 @@
+= Awesome Media
+
+image:https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg[CC0 Badge]
