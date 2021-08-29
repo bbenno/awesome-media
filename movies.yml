@@ -137,3 +137,8 @@ movies:
     imdb: https://www.imdb.com/title/tt10658198/
     proposer: @panda
     trailer: https://www.youtube.com/watch?v=6_STtq8ho7g
+  - title: Ghost Dog: The Way of Samurai
+    year: 1999
+    imdb: https://www.imdb.com/title/tt0165798/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=fRMu7RytXyE
