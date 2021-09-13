@@ -104,6 +104,7 @@ movies:
     imdb: https://www.imdb.com/title/tt15090124/
     proposer: @xentec
     trailer: https://youtu.be/iPScwQ-FAbI
+    watched: true
   - title: Last and First Men
     year: 2020
     imdb: https://imdb.com/title/tt8015444
@@ -117,6 +118,7 @@ movies:
     imdb: https://www.imdb.com/title/tt0112682/
     proposer: @panda
     trailer: https://www.youtube.com/watch?v=Pa7oVPru4J8
+    watched: true
   - title: Post Tenebras Lux
     year: 2012
     imdb: https://www.imdb.com/title/tt1754367/
