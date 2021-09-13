@@ -144,3 +144,57 @@ movies:
     imdb: https://www.imdb.com/title/tt0165798/
     proposer: @panda
     trailer: https://www.youtube.com/watch?v=fRMu7RytXyE
+  - title: Mr. Nobody
+    year: 2009
+    imdb: https://www.imdb.com/title/tt0485947/
+    proposer: @bbenno
+  - title: Léon: The Professional
+    year: 1994
+    imdb: https://www.imdb.com/title/tt0110413/
+    proposer: @bbenno
+  - title: Teorema
+    year: 1968
+    imdb: https://www.imdb.com/title/tt0063678/
+    proposer: @bbenno
+    trailer: https://www.youtube.com/watch?v=oCGVIg1ksYU
+  - title: Salò, or the 120 Days of Sodom
+    year: 1975
+    imdb: https://www.imdb.com/title/tt0073650/
+    proposer: @panda
+  - title: Rashomon
+    year: 1950
+    imdb: https://www.imdb.com/title/tt0042876/
+    proposer: @bbenno
+  - title: Mystic River
+    year: 2003
+    imdb: https://www.imdb.com/title/tt0327056/
+    proposer: @panda
+  - title: Delicatessen
+    year: 1991
+    imdb: https://www.imdb.com/title/tt0101700/
+    proposer: @panda
+    trailer: https://www.youtube.com/watch?v=GVL5_I4CvTc
+  - title: The Grand Budapest Hotel
+    year: 2014
+    imdb: https://www.imdb.com/title/tt2278388/
+    proposer: @bbenno
+  - title: The Producers
+    year: 1967
+    imdb: https://www.imdb.com/title/tt0063462/
+    proposer: @bbenno
+  - title: Rubber
+    year: 2010
+    imdb: https://www.imdb.com/title/tt1612774/
+    proposer: @bbenno
+  - title: Inland Empire
+    year: 2006
+    imdb: https://www.imdb.com/title/tt0460829/
+    proposer: @bbenno
+  - title: Dead Alive
+    year: 1992
+    imdb: https://www.imdb.com/title/tt0103873/
+    proposer: @bbenno
+  - title: Mulholland Drive
+    year: 2001
+    imdb: https://www.imdb.com/title/tt0166924/
+    proposer: @bbenno
