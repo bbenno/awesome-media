@@ -3,10 +3,6 @@ movies:
     year: 1984
     imdb: https://www.imdb.com/title/tt0087182/
     proposer: @bbenno
-  - title: Chernobyl
-    year: 2019
-    imdb: https://www.imdb.com/title/tt7366338/
-    proposer: @bbenno
   - title: El Topo
     year: 1970
     imdb: https://www.imdb.com/title/tt0067866/
