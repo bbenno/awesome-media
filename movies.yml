@@ -202,3 +202,11 @@ movies:
     year: 2021
     imdb: https://www.imdb.com/title/tt8399288/
     proposer: @bbenno
+  - title: Japón
+    year: 2002
+    imdb: https://www.imdb.com/title/tt0322824/
+    proposer: @bbenno
+  - title: Workingman's Death
+    year: 2005
+    imdb: https://www.imdb.com/title/tt0478331/
+    proposer: @bbenno
