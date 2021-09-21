@@ -135,7 +135,7 @@ movies:
     imdb: https://www.imdb.com/title/tt10658198/
     proposer: @panda
     trailer: https://www.youtube.com/watch?v=6_STtq8ho7g
-  - title: Ghost Dog: The Way of Samurai
+  - title: "Ghost Dog: The Way of Samurai"
     year: 1999
     imdb: https://www.imdb.com/title/tt0165798/
     proposer: @panda
@@ -144,7 +144,7 @@ movies:
     year: 2009
     imdb: https://www.imdb.com/title/tt0485947/
     proposer: @bbenno
-  - title: Léon: The Professional
+  - title: "Léon: The Professional"
     year: 1994
     imdb: https://www.imdb.com/title/tt0110413/
     proposer: @bbenno
