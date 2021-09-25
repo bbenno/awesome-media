@@ -2,211 +2,257 @@ movies:
   - title: Dune
     year: 1984
     imdb: tt0087182
+    tmdb: 841
     proposer: bbenno
   - title: El Topo
     year: 1970
     imdb: tt0067866
+    tmdb: 13041
     proposer: panda
     trailer: https://www.youtube.com/watch?v=6Uqb4Jy0GTg
   - title: The Holy Mountain
     year: 1973
     imdb: tt0071615
+    tmdb: 773225
     proposer: panda
     trailer: https://www.youtube.com/watch?v=zerBaxPbA94
   - title: A Girl at My Door
     year: 2014
     imdb: tt3661798
+    tmdb: 266058
     proposer: panda
     trailer: https://www.youtube.com/watch?v=_slHXNhxMl4
   - title: Sphere
     year: 1998
     imdb: tt0120184
+    tmdb: 10153
     proposer: panda
     trailer: https://www.youtube.com/watch?v=GJvKLetIV20
   - title: Wee Need to Talk About Kevin
     year: 2011
     imdb: tt1242460
+    tmdb: 71859
     proposer: panda
     trailer: https://www.youtube.com/watch?v=SfQaRK3BCYU
   - title: The Killing of a Sacred Deer
     year: 2017
     imdb: tt5715874
+    tmdb: 399057
     proposer: panda
     trailer: https://www.youtube.com/watch?v=CQFdGfwChtw
     watched: true
   - title: Tigers Are Not Afraid
     year: 2017
     imdb: tt4823434
+    tmdb: 349067
     proposer: panda
     trailer: https://www.youtube.com/watch?v=s9ZhT-qrroA
   - title: The Tree of Life
     year: 2011
     imdb: tt0478304
+    tmdb: 8967
     proposer: panda
     trailer: https://www.youtube.com/watch?v=RrAz1YLh8nY
     watched: true
   - title: Jacob's Ladder
     year: 1990
     imdb: tt0099871
+    tmdb: 2291
     proposer: panda
     trailer: https://www.youtube.com/watch?v=rJztRnDxdM8
   - title: Attack of the Killer Tomatoes!
     year: 1978
     imdb: tt0080391
+    tmdb: 2182
     proposer: panda
   - title: Beasts of No Nation
     year: 2015
     imdb: tt1365050
+    tmdb: 283587
     proposer: panda
     trailer: https://www.youtube.com/watch?v=2xb9Ty-1frw
   - title: Wie ich lernte bei mir selbst Kind zu sein
     year: 2019
     imdb: tt9806222
+    tmdb: 591350
     proposer: bbenno
   - title: Fallen Angels
     year: 1995
     imdb: tt0112913
+    tmdb: 11220
     proposer: panda
     trailer: tt0112913
   - title: M
     year: 1931
     imdb: tt0022100
+    tmdb: 832
     proposer: xentec
   - title: Korczak
     year: 1990
     imdb: tt0099949
+    tmdb: 47430
     proposer: bbenno
   - title: The French Dispatcher
     year: 2021
     imdb: tt8847712
+    tmdb: 
     proposer: xentec
   - title: Happiness
     year: 1998
     imdb: tt0147612
+    tmdb: 10683
     proposer: panda
     trailer: https://www.youtube.com/watch?v=xR-hvKuV0a8
   - title: Gayniggers from Outer Space
     year: 1992
     imdb: tt0274518
+    tmdb: 33380
     proposer: panda
     watched: true
   - title: Battle Royale
     year: 2000
     imdb: tt0266308
+    tmdb: 3176
     proposer: panda
     trailer: https://www.youtube.com/watch?v=N0p1t-dC7Ko
   - title: Mad God
     year: 2021
     imdb: tt15090124
+    tmdb: 846867
     proposer: xentec
     trailer: https://youtu.be/iPScwQ-FAbI
     watched: true
   - title: Last and First Men
     year: 2020
     imdb: tt8015444
+    tmdb: 566038
     proposer: bbenno
   - title: Bad Lieutenant
     year: 1992
     imdb: tt0103759
+    tmdb: 12143
     proposer: bbenno
   - title: The City of Lost Children
     year: 1995
     imdb: tt0112682
+    tmdb: 902
     proposer: panda
     trailer: https://www.youtube.com/watch?v=Pa7oVPru4J8
     watched: true
   - title: Post Tenebras Lux
     year: 2012
     imdb: tt1754367
+    tmdb: 103689
     proposer: panda
     trailer: https://www.youtube.com/watch?v=VmYvuW51htw
   - title: Uncle Boonmee Who Can Recall His Past Lives
     year: 2010
     imdb: tt1588895
+    tmdb: 38368
     proposer: panda
     trailer: https://www.youtube.com/watch?v=Jk-EoUb0nvg
   - title: On Body and Soul
     year: 2017
     imdb: tt5607714
+    tmdb: 436343
     proposer: panda
     trailer: https://www.youtube.com/watch?v=0JnAQvRsTLo
   - title: Sanctorum
     year: 2019
     imdb: tt10658198
+    tmdb: 572640
     proposer: panda
     trailer: https://www.youtube.com/watch?v=6_STtq8ho7g
   - title: "Ghost Dog: The Way of Samurai"
     year: 1999
     imdb: tt0165798
+    tmdb: 4816
     proposer: panda
     trailer: https://www.youtube.com/watch?v=fRMu7RytXyE
   - title: Mr. Nobody
     year: 2009
     imdb: tt0485947
+    tmdb: 31011
     proposer: bbenno
   - title: "Léon: The Professional"
     year: 1994
     imdb: tt0110413
+    tmdb: 101
     proposer: bbenno
   - title: Teorema
     year: 1968
     imdb: tt0063678
+    tmdb: 5335
     proposer: bbenno
     trailer: https://www.youtube.com/watch?v=oCGVIg1ksYU
   - title: Salò, or the 120 Days of Sodom
     year: 1975
     imdb: tt0073650
+    tmdb: 5336
     proposer: panda
   - title: Rashomon
     year: 1950
     imdb: tt0042876
+    tmdb: 548
     proposer: bbenno
   - title: Mystic River
     year: 2003
     imdb: tt0327056
+    tmdb: 322
     proposer: panda
   - title: Delicatessen
     year: 1991
     imdb: tt0101700
+    tmdb: 892
     proposer: panda
     trailer: https://www.youtube.com/watch?v=GVL5_I4CvTc
   - title: The Grand Budapest Hotel
     year: 2014
     imdb: tt2278388
+    tmdb: 120467
     proposer: bbenno
   - title: The Producers
     year: 1967
     imdb: tt0063462
+    tmdb: 30197
     proposer: bbenno
   - title: Rubber
     year: 2010
     imdb: tt1612774
+    tmdb: 45649
     proposer: bbenno
   - title: Inland Empire
     year: 2006
     imdb: tt0460829
+    tmdb: 1730
     proposer: bbenno
   - title: Dead Alive
     year: 1992
     imdb: tt0103873
+    tmdb: 763
     proposer: bbenno
   - title: Mulholland Drive
     year: 2001
     imdb: tt0166924
+    tmdb: 1018
     proposer: bbenno
   - title: Platoon
     year: 1986
     imdb: tt0091763
+    tmdb: 792
     proposer: bbenno
   - title: Memoria
     year: 2021
     imdb: tt8399288
+    tmdb: 511819
     proposer: bbenno
   - title: Japón
     year: 2002
     imdb: tt0322824
+    tmdb: 36211
     proposer: bbenno
   - title: Workingman's Death
     year: 2005
     imdb: tt0478331
+    tmdb: 63290
     proposer: bbenno
