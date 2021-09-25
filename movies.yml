@@ -71,7 +71,7 @@ movies:
     tmdb: 283587
     proposer: panda
     trailer: https://www.youtube.com/watch?v=2xb9Ty-1frw
-  - title: Wie ich lernte bei mir selbst Kind zu sein
+  - title: How I Taught Myself to Be a Child
     year: 2019
     imdb: tt9806222
     tmdb: 591350
@@ -226,7 +226,7 @@ movies:
     imdb: tt0460829
     tmdb: 1730
     proposer: bbenno
-  - title: Dead Alive
+  - title: Braindead
     year: 1992
     imdb: tt0103873
     tmdb: 763
