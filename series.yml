@@ -1,10 +1,13 @@
 series:
   - title: Chernobyl
-    imdb: https://www.imdb.com/title/tt7366338/
+    imdb: tt7366338
+    tmdb: 87108
     proposer: bbenno
   - title: Letterkenny
-    imdb: https://www.imdb.com/title/tt4647692/
+    imdb: tt4647692
+    tmdb: 65798
     proposer: xentec
   - title: Twin Peaks
-    imdb: https://www.imdb.com/title/tt0098936/
+    imdb: tt0098936
+    tmdb: 1920
     proposer: bbenno
