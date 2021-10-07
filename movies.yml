@@ -256,3 +256,18 @@ movies:
     imdb: tt0478331
     tmdb: 63290
     proposer: bbenno
+  - title: Princess Mononoke
+    year: 1997
+    imdb: tt0119698
+    tmdb: 128
+    proposer: bbenno
+  - title: Howl's Moving Castle
+    year: 2004
+    imdb: tt0347149
+    tmdb: 4935
+    proposer: bbenno
+  - title: Spirited Away
+    year: 2001
+    imdb: tt0245429
+    tmdb: 129
+    proposer: bbenno
