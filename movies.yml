@@ -22,6 +22,7 @@ movies:
     tmdb: 266058
     proposer: panda
     trailer: https://www.youtube.com/watch?v=_slHXNhxMl4
+    watched: true
   - title: Sphere
     year: 1998
     imdb: tt0120184
@@ -271,3 +272,41 @@ movies:
     imdb: tt0245429
     tmdb: 129
     proposer: bbenno
+  - title: Grave of the Fireflies
+    year: 1998
+    imdb: tt0095327
+    tmdb: 12477
+    proposer: bbenno
+  - title: The Wind Rises
+    year: 2013
+    imdb: tt2013293
+    tmdb: 149870
+    proposer: bbenno
+  - title: Your Name.
+    year: 2016
+    imdb: tt5311514
+    tmdb: 372058
+    proposer: bbenno
+  - title: Hannibal
+    year: 2001
+    imdb: tt0212985
+    tmdb: 9740
+    proposer: vala
+  - title: Hollow Man
+    year: 2000
+    imdb: tt0164052
+    tmdb: 9383
+    proposer: vala
+  - title: Bloody Sunday
+    year: 2002
+    imdb: tt0280491
+    tmdb: 4107
+  - title: Akira
+    year: 2016
+    imdb: tt0094625
+    tmdb: 149
+    proposer: panda
+  - title: Confessions
+    imdb: tt1590089
+    tmdb: 54186
+    proposer: panda

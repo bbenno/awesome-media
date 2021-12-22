@@ -11,3 +11,23 @@ series:
     imdb: tt0098936
     tmdb: 1920
     proposer: bbenno
+  - title: Attack on Titan
+    imdb: tt2560140
+    tmdb: 1429
+    proposer: bbenno
+  - title: Death Note
+    imdb: tt0877057
+    tmdb: 13916
+    proposer: bbenno
+  - title: Berserk
+    imdb: tt0318871
+    tmdb: 35935
+    proposer: bbenno
+  - title: Westworld
+    imdb: tt0475784
+    tmdb: 63247
+    proposer: bbenno
+  - title: Squid Game
+    imdb: tt10919420
+    tmdb: 93405
+    proposer: vala
