@@ -16,6 +16,7 @@ movies:
     tmdb: 773225
     proposer: panda
     trailer: https://www.youtube.com/watch?v=zerBaxPbA94
+    watched: true
   - title: A Girl at My Door
     year: 2014
     imdb: tt3661798
@@ -201,6 +202,7 @@ movies:
     imdb: tt0327056
     tmdb: 322
     proposer: panda
+    watched: true
   - title: Delicatessen
     year: 1991
     imdb: tt0101700
@@ -306,6 +308,7 @@ movies:
     imdb: tt0094625
     tmdb: 149
     proposer: panda
+    watched: true
   - title: Confessions
     year: 2010
     imdb: tt1590089
