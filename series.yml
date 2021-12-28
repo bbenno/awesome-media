@@ -31,3 +31,15 @@ series:
     imdb: tt10919420
     tmdb: 93405
     proposer: vala
+  - title: Star Trek
+    imdb: tt0060028
+    tmdb: 253
+    proposer: bbenno
+  - title: Banana Fish
+    imdb: tt8515016
+    tmdb: 80564
+    proposer: panda
+  - title: Tower of God
+    imdb: tt12057106
+    tmdb: 97860
+    proposer: xentec
