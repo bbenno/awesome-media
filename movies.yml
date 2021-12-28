@@ -104,6 +104,7 @@ movies:
     imdb: tt0147612
     tmdb: 10683
     proposer: panda
+    watched: true
     trailer: https://www.youtube.com/watch?v=xR-hvKuV0a8
   - title: Gayniggers from Outer Space
     year: 1992
@@ -244,6 +245,11 @@ movies:
     imdb: tt0091763
     tmdb: 792
     proposer: bbenno
+  - title: Enter the Void
+    year: 2009
+    imdb: tt1191111
+    tmdb: 34647
+    proposer: bbenno
   - title: Memoria
     year: 2021
     imdb: tt8399288
@@ -313,4 +319,9 @@ movies:
     year: 2010
     imdb: tt1590089
     tmdb: 54186
+    proposer: panda
+  - title: Moebius
+    year: 2013
+    imdb: tt2942522
+    tmdb: 170689
     proposer: panda
