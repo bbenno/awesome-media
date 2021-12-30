@@ -341,7 +341,7 @@ movies:
     imdb: tt0098063
     tmdb: 50270
     proposer: panda
-  - title: Jin-Roh: The Wolf Brigade
+  - title: "Jin-Roh: The Wolf Brigade"
     year: 1999
     imdb: tt0193253
     tmdb: 823
@@ -366,12 +366,12 @@ movies:
     imdb: tt0388473
     tmdb: 13398
     proposer: panda
-  - title: Vampire Hunter D: Bloodlust
+  - title: "Vampire Hunter D: Bloodlust"
     year: 2000
     imdb: tt0216651
     tmdb: 15999
     proposer: panda
-  - title: Royal Space Force: The Wings of Honneamise Pilot
+  - title: "Royal Space Force: The Wings of Honneamise Pilot"
     year: 1987
     imdb: tt0093207
     tmdb: 20043
@@ -381,7 +381,7 @@ movies:
     imdb: tt0208502
     tmdb: 15916
     proposer: panda
-  - title: Patlabor 2: The Movie
+  - title: "Patlabor 2: The Movie"
     year: 1993
     imdb: tt0124770
     tmdb: 14572

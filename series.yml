@@ -55,11 +55,11 @@ series:
     imdb: tt0112159
     tmdb: 890
     proposer: panda
-  - title: Code Geass: Hangyaku no Lelouch
+  - title: "Code Geass: Hangyaku no Lelouch"
     imdb: tt0994314
     tmdb: 31724
     proposer: panda
-  - title: Clannad: After Story
+  - title: "Clannad: After Story"
     imdb: tt1298820
     tmdb: 24835
     proposer: panda
@@ -103,7 +103,7 @@ series:
     imdb: tt1773185
     tmdb: 39218
     proposer: panda
-  - title: Fullmetal Alchemist: Brotherhood
+  - title: "Fullmetal Alchemist: Brotherhood"
     imdb: tt1355642
     tmdb: 31911
     proposer: panda
@@ -115,7 +115,7 @@ series:
     imdb: tt0807832
     tmdb: 26867
     proposer: panda
-  - title: Nichijou: My Ordinary Life
+  - title: "Nichijou: My Ordinary Life"
     imdb: tt2098308
     tmdb: 44684
     proposer: panda
@@ -135,11 +135,11 @@ series:
     imdb: tt10233448
     tmdb: 88803
     proposer: xentec
-  - title: Mushoku Tensei: Jobless Reincarnation
+  - title: "Mushoku Tensei: Jobless Reincarnation"
     imdb: tt13293588
     tmdb: 94664
     proposer: xentec
-  - title: 86: Eighty-Six
+  - title: "86: Eighty-Six"
     imdb: tt13718450
     tmdb: 100565
     proposer: xentec
