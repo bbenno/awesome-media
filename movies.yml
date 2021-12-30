@@ -230,6 +230,7 @@ movies:
     imdb: tt0460829
     tmdb: 1730
     proposer: bbenno
+    watched: true
   - title: Braindead
     year: 1992
     imdb: tt0103873
@@ -324,4 +325,69 @@ movies:
     year: 2013
     imdb: tt2942522
     tmdb: 170689
+    proposer: panda
+  - title: Mother
+    year: 2009
+    imdb: tt1216496
+    tmdb: 30018
+    proposer: panda
+  - title: Perfect Blue
+    year: 1997
+    imdb: tt0156887
+    tmdb: 10494
+    proposer: panda
+  - title: Paprika
+    year: 1991
+    imdb: tt0098063
+    tmdb: 50270
+    proposer: panda
+  - title: Jin-Roh: The Wolf Brigade
+    year: 1999
+    imdb: tt0193253
+    tmdb: 823
+    proposer: panda
+  - title: Wolf Children
+    year: 2012
+    imdb: tt2140203
+    tmdb: 110420
+    proposer: panda
+  - title: 5 Centimeters per Second
+    year: 2007
+    imdb: tt0983213
+    tmdb: 38142
+    proposer: panda
+  - title: The Girl Who Leapt Through Time
+    year: 2006
+    imdb: tt0808506
+    tmdb: 14069
+    proposer: panda
+  - title: Tokyo Godfathers
+    year: 2003
+    imdb: tt0388473
+    tmdb: 13398
+    proposer: panda
+  - title: Vampire Hunter D: Bloodlust
+    year: 2000
+    imdb: tt0216651
+    tmdb: 15999
+    proposer: panda
+  - title: Royal Space Force: The Wings of Honneamise Pilot
+    year: 1987
+    imdb: tt0093207
+    tmdb: 20043
+    proposer: panda
+  - title: Angel's Egg
+    year: 1985
+    imdb: tt0208502
+    tmdb: 15916
+    proposer: panda
+  - title: Patlabor 2: The Movie
+    year: 1993
+    imdb: tt0124770
+    tmdb: 14572
+    proposer: panda
+  - title: Avalon
+    year: 2001
+    imdb: tt0267287
+    tmdb: 10881
     proposer: panda
