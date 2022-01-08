@@ -391,3 +391,13 @@ movies:
     imdb: tt0267287
     tmdb: 10881
     proposer: panda
+  - title: V for Vendetta
+    year: 2005
+    imdb: tt0434409
+    tmdb: 752
+    proposer: bbenno
+  - title: Inglourious Basterds
+    year: 2009
+    imdb: tt0361748
+    tmdb: 16869
+    proposer: bbenno
