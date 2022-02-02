@@ -401,3 +401,28 @@ movies:
     imdb: tt0361748
     tmdb: 16869
     proposer: bbenno
+  - title: La Haine
+    year: 1995
+    imdb: tt0113247
+    tmdb: 406
+    proposer: pinguin
+  - title: Room
+    year: 2015
+    imdb: tt3170832
+    tmdb: 264644
+    proposer: vala
+  - title: Interstellar
+    year: 2014
+    imdb: tt0816692
+    tmdb: 157336
+    proposer: vala
+  - title: Office Space
+    year: 1999
+    imdb: tt0151804
+    tmdb: 1542
+    proposer: bbenno
+  - title: Beyond the Infinite Two Minutes
+    year: 2020
+    imdb: tt14500584
+    tmdb: 805627
+    proposer: vala

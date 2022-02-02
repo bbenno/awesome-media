@@ -147,3 +147,19 @@ series:
     imdb: tt14134550
     tmdb: 116727
     proposer: xentec
+  - title: The Expanse
+    imdb: tt3230854
+    tmdb: 63639
+    proposer: panda
+  - title: Moral Orel
+    imdb: tt0476922
+    tmdb: 292
+    proposer: xentec
+  - title: Puni Puni Poemy
+    imdb: tt0368185
+    tmdb: 34688
+    proposer: panda
+  - title: Stargate SG-1
+    imdb: tt0118480
+    tmdb: 4629
+    proposer: bbenno
