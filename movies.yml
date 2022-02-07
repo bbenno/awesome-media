@@ -426,3 +426,13 @@ movies:
     imdb: tt14500584
     tmdb: 805627
     proposer: vala
+  - title: The Man Who Knew Infinity
+    year: 2015
+    imdb: tt0787524
+    tmdb: 353326
+    proposer: vala
+  - title: Ninja Scroll
+    year: 1993
+    imdb: tt0107692
+    tmdb: 14282
+    proposer: pinguin

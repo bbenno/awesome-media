@@ -163,3 +163,15 @@ series:
     imdb: tt0118480
     tmdb: 4629
     proposer: bbenno
+  - title: "Avatar: The Last Airbender"
+    imdb: tt0417299
+    tmdb: 246
+    proposer: bbenno
+  - title: Mr. Robot
+    imdb: tt4158110
+    tmdb: 62560
+    proposer: bbenno
+  - title: The Mightnight Gospel
+    imdb: tt11639414
+    tmdb: 96713
+    proposer: bbenno
