@@ -94,10 +94,10 @@ movies:
     imdb: tt0099949
     tmdb: 47430
     proposer: bbenno
-  - title: The French Dispatcher
+  - title: The French Dispatch
     year: 2021
     imdb: tt8847712
-    tmdb: 
+    tmdb: 542178
     proposer: xentec
   - title: Happiness
     year: 1998
@@ -311,7 +311,7 @@ movies:
     imdb: tt0280491
     tmdb: 4107
   - title: Akira
-    year: 2016
+    year: 1988
     imdb: tt0094625
     tmdb: 149
     proposer: panda
