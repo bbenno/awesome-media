@@ -436,3 +436,8 @@ movies:
     imdb: tt0107692
     tmdb: 14282
     proposer: pinguin
+  - title: Kin-Dza-Dza!
+    year: 1986
+    imdb: tt0091341
+    tmdb: 20874
+    proposer: xentec
