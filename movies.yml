@@ -441,3 +441,8 @@ movies:
     imdb: tt0091341
     tmdb: 20874
     proposer: xentec
+  - title: Tekkonkinkreet
+    year: 2006
+    imdb: tt0831888
+    tmdb: 13754
+    proposer: pinguin
