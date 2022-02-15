@@ -446,3 +446,8 @@ movies:
     imdb: tt0831888
     tmdb: 13754
     proposer: pinguin
+  - title: Spring, Summer, Fall, Winter... and Spring
+    year: 2003
+    imdb: tt0374546
+    tmdb: 113
+    proposer: panda
