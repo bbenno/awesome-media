@@ -1,193 +1,192 @@
-series:
-  - title: Chernobyl
-    imdb: tt7366338
-    tmdb: 87108
-    proposer: bbenno
-  - title: Letterkenny
-    imdb: tt4647692
-    tmdb: 65798
-    proposer: xentec
-  - title: Twin Peaks
-    imdb: tt0098936
-    tmdb: 1920
-    proposer: bbenno
-  - title: Attack on Titan
-    imdb: tt2560140
-    tmdb: 1429
-    proposer: bbenno
-  - title: Death Note
-    imdb: tt0877057
-    tmdb: 13916
-    proposer: bbenno
-  - title: Berserk
-    imdb: tt0318871
-    tmdb: 35935
-    proposer: bbenno
-  - title: Westworld
-    imdb: tt0475784
-    tmdb: 63247
-    proposer: bbenno
-  - title: Squid Game
-    imdb: tt10919420
-    tmdb: 93405
-    proposer: vala
-  - title: Star Trek
-    imdb: tt0060028
-    tmdb: 253
-    proposer: bbenno
-  - title: Banana Fish
-    imdb: tt8515016
-    tmdb: 80564
-    proposer: panda
-  - title: Tower of God
-    imdb: tt12057106
-    tmdb: 97860
-    proposer: xentec
-  - title: Elfen Lied
-    imdb: tt0480489
-    tmdb: 42671
-    proposer: panda
-  - title: From the New World
-    imdb: tt2309320
-    tmdb: 53052
-    proposer: panda
-  - title: Neon Genesis Evangelion
-    imdb: tt0112159
-    tmdb: 890
-    proposer: panda
-  - title: "Code Geass: Hangyaku no Lelouch"
-    imdb: tt0994314
-    tmdb: 31724
-    proposer: panda
-  - title: "Clannad: After Story"
-    imdb: tt1298820
-    tmdb: 24835
-    proposer: panda
-  - title: Cowboy Bebop
-    imdb: tt0213338
-    tmdb: 30991
-    proposer: panda
-  - title: Ergo Proxy
-    imdb: tt0791205
-    tmdb: 1097
-    proposer: panda
-  - title: Monster
-    imdb: tt0434706
-    tmdb: 30981
-    proposer: panda
-  - title: Planetes
-    imdb: tt0816398
-    tmdb: 34102
-    proposer: panda
-  - title: Shiki
-    imdb: tt2016670
-    tmdb: 36581
-    proposer: panda
-  - title: Steins;Gate
-    imdb: tt1910272
-    tmdb: 42509
-    proposer: panda
-  - title: When They Cry
-    imdb: tt0845738
-    tmdb: 25760
-    propser: panda
-  - title: Texhnolyze
-    imdb: tt0409630
-    tmdb: 8838
-    proposer: panda
-  - title: Serial Experiments Lain
-    imdb: tt0500092
-    tmdb: 1087
-    proposer: panda
-  - title: Puella Magi Madoka Magica
-    imdb: tt1773185
-    tmdb: 39218
-    proposer: panda
-  - title: "Fullmetal Alchemist: Brotherhood"
-    imdb: tt1355642
-    tmdb: 31911
-    proposer: panda
-  - title: Psycho-Pass
-    imdb: tt2379308
-    tmdb: 43865
-    proposer: panda
-  - title: Mushi-Shi
-    imdb: tt0807832
-    tmdb: 26867
-    proposer: panda
-  - title: "Nichijou: My Ordinary Life"
-    imdb: tt2098308
-    tmdb: 44684
-    proposer: panda
-  - title: Hellsing Ultimate
-    imdb: tt0495212
-    tmdb: 61752
-    proposer: panda
-  - title: Welcome to the N.H.K.
-    imdb: tt0857297
-    tmdb: 42821
-    proposer: panda
-  - title: Girls' Last Tour
-    imdb: tt7474942
-    tmdb: 74185
-    proposer: xentec
-  - title: Vinland Saga
-    imdb: tt10233448
-    tmdb: 88803
-    proposer: xentec
-  - title: "Mushoku Tensei: Jobless Reincarnation"
-    imdb: tt13293588
-    tmdb: 94664
-    proposer: xentec
-  - title: "86: Eighty-Six"
-    imdb: tt13718450
-    tmdb: 100565
-    proposer: xentec
-  - title: Odd Taxi
-    imdb: tt14134550
-    tmdb: 116727
-    proposer: xentec
-  - title: The Expanse
-    imdb: tt3230854
-    tmdb: 63639
-    proposer: panda
-  - title: Moral Orel
-    imdb: tt0476922
-    tmdb: 292
-    proposer: xentec
-  - title: Puni Puni Poemy
-    imdb: tt0368185
-    tmdb: 34688
-    proposer: panda
-  - title: Stargate SG-1
-    imdb: tt0118480
-    tmdb: 4629
-    proposer: bbenno
-  - title: "Avatar: The Last Airbender"
-    imdb: tt0417299
-    tmdb: 246
-    proposer: bbenno
-  - title: Mr. Robot
-    imdb: tt4158110
-    tmdb: 62560
-    proposer: bbenno
-  - title: The Mightnight Gospel
-    imdb: tt11639414
-    tmdb: 96713
-    proposer: bbenno
-  - title: The Little Prince
-    imdb:
-    tmdb: 61483
-    proposer: bbenno
-  - title: Love, Death & Robots
-    imdb: tt9561862
-    tmdb: 86831
-    proposer: vala
-  - title: Zankyou No Terror
-    imdb: tt3613454
-    tmdb: 61421
-    proposer: bbenno
-  - title: Silicon Valley
-    imdb: tt2575988
-    tmdb: 60573
-    proposer: bbenno
+- title: Chernobyl
+  imdb: tt7366338
+  tmdb: 87108
+  proposer: bbenno
+- title: Letterkenny
+  imdb: tt4647692
+  tmdb: 65798
+  proposer: xentec
+- title: Twin Peaks
+  imdb: tt0098936
+  tmdb: 1920
+  proposer: bbenno
+- title: Attack on Titan
+  imdb: tt2560140
+  tmdb: 1429
+  proposer: bbenno
+- title: Death Note
+  imdb: tt0877057
+  tmdb: 13916
+  proposer: bbenno
+- title: Berserk
+  imdb: tt0318871
+  tmdb: 35935
+  proposer: bbenno
+- title: Westworld
+  imdb: tt0475784
+  tmdb: 63247
+  proposer: bbenno
+- title: Squid Game
+  imdb: tt10919420
+  tmdb: 93405
+  proposer: vala
+- title: Star Trek
+  imdb: tt0060028
+  tmdb: 253
+  proposer: bbenno
+- title: Banana Fish
+  imdb: tt8515016
+  tmdb: 80564
+  proposer: panda
+- title: Tower of God
+  imdb: tt12057106
+  tmdb: 97860
+  proposer: xentec
+- title: Elfen Lied
+  imdb: tt0480489
+  tmdb: 42671
+  proposer: panda
+- title: From the New World
+  imdb: tt2309320
+  tmdb: 53052
+  proposer: panda
+- title: Neon Genesis Evangelion
+  imdb: tt0112159
+  tmdb: 890
+  proposer: panda
+- title: "Code Geass: Hangyaku no Lelouch"
+  imdb: tt0994314
+  tmdb: 31724
+  proposer: panda
+- title: "Clannad: After Story"
+  imdb: tt1298820
+  tmdb: 24835
+  proposer: panda
+- title: Cowboy Bebop
+  imdb: tt0213338
+  tmdb: 30991
+  proposer: panda
+- title: Ergo Proxy
+  imdb: tt0791205
+  tmdb: 1097
+  proposer: panda
+- title: Monster
+  imdb: tt0434706
+  tmdb: 30981
+  proposer: panda
+- title: Planetes
+  imdb: tt0816398
+  tmdb: 34102
+  proposer: panda
+- title: Shiki
+  imdb: tt2016670
+  tmdb: 36581
+  proposer: panda
+- title: Steins;Gate
+  imdb: tt1910272
+  tmdb: 42509
+  proposer: panda
+- title: When They Cry
+  imdb: tt0845738
+  tmdb: 25760
+  propser: panda
+- title: Texhnolyze
+  imdb: tt0409630
+  tmdb: 8838
+  proposer: panda
+- title: Serial Experiments Lain
+  imdb: tt0500092
+  tmdb: 1087
+  proposer: panda
+- title: Puella Magi Madoka Magica
+  imdb: tt1773185
+  tmdb: 39218
+  proposer: panda
+- title: "Fullmetal Alchemist: Brotherhood"
+  imdb: tt1355642
+  tmdb: 31911
+  proposer: panda
+- title: Psycho-Pass
+  imdb: tt2379308
+  tmdb: 43865
+  proposer: panda
+- title: Mushi-Shi
+  imdb: tt0807832
+  tmdb: 26867
+  proposer: panda
+- title: "Nichijou: My Ordinary Life"
+  imdb: tt2098308
+  tmdb: 44684
+  proposer: panda
+- title: Hellsing Ultimate
+  imdb: tt0495212
+  tmdb: 61752
+  proposer: panda
+- title: Welcome to the N.H.K.
+  imdb: tt0857297
+  tmdb: 42821
+  proposer: panda
+- title: Girls' Last Tour
+  imdb: tt7474942
+  tmdb: 74185
+  proposer: xentec
+- title: Vinland Saga
+  imdb: tt10233448
+  tmdb: 88803
+  proposer: xentec
+- title: "Mushoku Tensei: Jobless Reincarnation"
+  imdb: tt13293588
+  tmdb: 94664
+  proposer: xentec
+- title: "86: Eighty-Six"
+  imdb: tt13718450
+  tmdb: 100565
+  proposer: xentec
+- title: Odd Taxi
+  imdb: tt14134550
+  tmdb: 116727
+  proposer: xentec
+- title: The Expanse
+  imdb: tt3230854
+  tmdb: 63639
+  proposer: panda
+- title: Moral Orel
+  imdb: tt0476922
+  tmdb: 292
+  proposer: xentec
+- title: Puni Puni Poemy
+  imdb: tt0368185
+  tmdb: 34688
+  proposer: panda
+- title: Stargate SG-1
+  imdb: tt0118480
+  tmdb: 4629
+  proposer: bbenno
+- title: "Avatar: The Last Airbender"
+  imdb: tt0417299
+  tmdb: 246
+  proposer: bbenno
+- title: Mr. Robot
+  imdb: tt4158110
+  tmdb: 62560
+  proposer: bbenno
+- title: The Mightnight Gospel
+  imdb: tt11639414
+  tmdb: 96713
+  proposer: bbenno
+- title: The Little Prince
+  imdb:
+  tmdb: 61483
+  proposer: bbenno
+- title: Love, Death & Robots
+  imdb: tt9561862
+  tmdb: 86831
+  proposer: vala
+- title: Zankyou No Terror
+  imdb: tt3613454
+  tmdb: 61421
+  proposer: bbenno
+- title: Silicon Valley
+  imdb: tt2575988
+  tmdb: 60573
+  proposer: bbenno
