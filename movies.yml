@@ -469,3 +469,43 @@
   imdb: tt0110912
   tmdb: 680
   proposer: bbenno
+- title: City of Joy
+  year: 2016
+  imdb: tt4078252
+  tmdb: 450005
+  proposer: pinguin
+- title: Zama
+  year: 2017
+  imdb: tt3409848
+  tmdb: 326382
+  proposer: panda
+- title: Black Moon
+  year: 1975
+  imdb: tt0072709
+  tmdb: 27361
+  proposer: panda
+- title: Tony Takitani
+  year: 2004
+  imdb: tt0420260
+  tmdb: 29269
+  proposer: panda
+- title: Atlantics
+  year: 2019
+  imdb: tt10199586
+  tmdb: 496967
+  proposer: panda
+- title: I'm Thinking of Ending Things
+  year: 2020
+  imdb: tt7939766
+  tmdb: 500840
+  proposer: panda
+- title: Monty Python and the Holy Grail
+  year: 1975
+  imdb: tt0071853
+  tmdb: 762
+  proposer: bbenno
+- title: Life of Brian
+  year: 1979
+  imdb: tt0079470
+  tmdb: 583
+  proposer: bbenno
