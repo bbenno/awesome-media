@@ -509,3 +509,18 @@
   imdb: tt0079470
   tmdb: 583
   proposer: bbenno
+- title: The Hitchhiker's Guide to the Galaxy
+  year: 2005
+  imdb: tt0371724
+  tmdb: 7453
+  proposer: xentec
+- title: The Men Who Stare at Goats
+  year: 2009
+  imdb: tt1234548
+  tmdb: 10313
+  proposer: xentec
+- title: Anon
+  year: 2018
+  imdb: tt5397194
+  tmdb: 396806
+  proposer: xentec
