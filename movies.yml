@@ -524,3 +524,18 @@
   imdb: tt5397194
   tmdb: 396806
   proposer: xentec
+- title: Quo Vadis, Aida?
+  year: 2020
+  imdb: tt8633462
+  tmdb: 728118
+  proposer: banana
+- title: Dude, Where's My Car?
+  year: 2000
+  imdb: tt0242423
+  tmdb: 8859
+  proposer: bbenno
+- title: Dancing with the Birds
+  year: 2019
+  imdb: tt11101698
+  tmdb: 634541
+  proposer: pinguin
