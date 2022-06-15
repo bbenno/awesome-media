@@ -123,7 +123,6 @@
   tmdb: 846867
   proposer: xentec
   trailer: https://youtu.be/iPScwQ-FAbI
-  watched: true
 - title: Last and First Men
   year: 2020
   imdb: tt8015444
@@ -251,6 +250,7 @@
   imdb: tt1191111
   tmdb: 34647
   proposer: bbenno
+  watched: true
 - title: Memoria
   year: 2021
   imdb: tt8399288
@@ -524,6 +524,7 @@
   imdb: tt5397194
   tmdb: 396806
   proposer: xentec
+  watched: true
 - title: Quo Vadis, Aida?
   year: 2020
   imdb: tt8633462
@@ -534,6 +535,7 @@
   imdb: tt0242423
   tmdb: 8859
   proposer: bbenno
+  watched: true
 - title: Dancing with the Birds
   year: 2019
   imdb: tt11101698
