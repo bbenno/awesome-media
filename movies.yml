@@ -553,3 +553,23 @@
   tmdb: 923344
   proposer: panda
   trailer: https://youtu.be/DwUVZlIy-xg
+- title: The Plague Dogs
+  year: 1982
+  imdb: tt0084509
+  tmdb: 30060
+  proposer: pinguin
+- title: Constantine
+  year: 2005
+  imdb: tt0360486
+  tmdb: 561
+  proposer: bbenno
+- title: "Arvo Pärt: 24 Preludes for a Fugue"
+  year: 2002
+  imdb: tt0358947
+  tmdb: 276702
+  proposer: bbenno
+- title: Vortex
+  year: 2021
+  imdb: tt14821150
+  tmdb: 807070
+  proposer: bbenno
