@@ -55,12 +55,12 @@
   tmdb: 525190
   youtube: Zh3Yz3PiXZw
   proposer: bbenno
-- name: Modern Educayshun
-  year: 2005
-  imdb:
-  tmdb: 833332
-  youtube: iKcWu0tsiZM
-  proposer: bbenno
+  #- name: Modern Educayshun
+  #  year: 2005
+  #  imdb: tt6625294
+  #  tmdb: 833332
+  #  youtube: iKcWu0tsiZM
+  #  proposer: bbenno
 - name: The Expert
   year: 2014
   imdb:
