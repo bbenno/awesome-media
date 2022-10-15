@@ -573,3 +573,29 @@
   imdb: tt14821150
   tmdb: 807070
   proposer: bbenno
+- title: Redline
+  year: 2009
+  imdb: tt1483797
+  tmdb: 71883
+  proposer: xentec
+- title: Swiss Army Man
+  year: 2016
+  imdb: tt4034354
+  tmdb: 347031
+  proposer: panda
+- title: Tokyo Story
+  year: 1953
+  imdb: tt0046438
+  tmdb: 18148
+  proposer: panda
+- title: "Terminator 2: Judgement Day"
+  year: 1991
+  imdb: tt0103064
+  tmdb: 280
+  proposer: bbenno
+- title: Little Dieter Needs to Fly
+  year: 1997
+  imdb: tt0145046
+  tmdb: 57976
+  youtube: ZWv2Zt9cV14
+  proposer: bbenno
