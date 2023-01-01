@@ -12,7 +12,7 @@
 - title: The Holy Mountain
   year: 1973
   imdb: tt0071615
-  tmdb: 773225
+  tmdb: 8327
   proposer: panda
   trailer: https://youtu.be/zerBaxPbA94
   watched: true
@@ -609,3 +609,7 @@
   imdb: tt0165623
   tmdb: 18912
   proposer: bbenno
+- title: The Menu
+  year: 2022
+  imdb: tt9764362
+  tmdb: 593643
