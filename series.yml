@@ -13,7 +13,7 @@
 - title: Attack on Titan
   imdb: tt2560140
   tmdb: 1429
-  proposer: bbenno
+  proposer: xentec
 - title: Death Note
   imdb: tt0877057
   tmdb: 13916
@@ -170,10 +170,10 @@
   imdb: tt4158110
   tmdb: 62560
   proposer: bbenno
-- title: The Mightnight Gospel
+- title: The Midnight Gospel
   imdb: tt11639414
   tmdb: 96713
-  proposer: bbenno
+  proposer: pinguin
 - title: The Little Prince
   imdb: tt1865800
   tmdb: 61483
@@ -185,7 +185,7 @@
 - title: Zankyou No Terror
   imdb: tt3613454
   tmdb: 61421
-  proposer: bbenno
+  proposer: xentec
 - title: Silicon Valley
   imdb: tt2575988
   tmdb: 60573
@@ -225,16 +225,16 @@
 - title: Mob Psycho 100
   imdb: tt5897304
   tmdb: 67075
-  proposer: bbenno
+  proposer: xentec
 - title: One-Punch Man
   imdb: tt4508902
   tmdb: 63926
-  proposer: bbenno
-- title: Hellsing Ultimate
-  imdb: tt0495212
-  tmdb: 61752
   proposer: bbenno
 - title: Elementary
   imdb: tt2191671
   tmdb: 1415
   proposer: bbenno
+- title: Pantheon
+  imdb: tt11680642
+  tmdb: 195339
+  proposer: xentec
