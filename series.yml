@@ -21,7 +21,7 @@
 - title: Berserk
   imdb: tt0318871
   tmdb: 35935
-  proposer: bbenno
+  proposer: panda
 - title: Westworld
   imdb: tt0475784
   tmdb: 63247
@@ -238,3 +238,23 @@
   imdb: tt11680642
   tmdb: 195339
   proposer: xentec
+- title: Astra Lost in Space
+  imdb: tt10483250
+  tmdb: 88041
+  proposer: bbenno
+- title: "Frieren: Beyond Journey's End"
+  imdb: tt22248376
+  tmdb: 209867
+  proposer: xentec
+- title: Devs
+  imdb: tt8134186
+  tmdb: 81349
+  proposer: xentec
+- title: Haibane Renmei
+  imdb: tt0380113
+  tmdb: 34164
+  proposer: panda
+- title: Kaiju No. 8
+  imdb: tt21975436
+  tmdb: 207468
+  proposer: bbenno

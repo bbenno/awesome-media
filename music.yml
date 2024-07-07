@@ -20,6 +20,38 @@ dnb:
   - title: Zone
     artist: Venjent
     youtube_key: nUgcYVrJzDA
+electro:
+  - title: Persistence Of Vision
+    artist: The Future Sound of London
+    youtube_key: IqenRttlGPU
+ambient:
+  - title: Mellow
+    artist: Boris Blend
+    youtube_key: ap5xt5ZhSkE
+  - title: Metaphysical
+    artist: Boris Blenn
+    youtube_key: dBAkS2gav04
+sentual:
+  - title: Untravel
+    artist: Rival Consoles
+    youtube_key: cxxIN6fyj58
+stared:
+  - title: Big City Life
+    artist: Luude & Mattafix
+    youtube_key: p55LUUnaNS0
+  - title: Beautiful
+    artist: Sepalot f.t Adriano
+    youtube_key: 8QRteM0PJLk
+  - title: Zeit, dass sich was dreht
+    artist: $oho Bani, Herbert Grönemeyer
+    youtube_key: GwTveAHmDp8
+compilations:
+  - title: Best of Rival Consoles
+    artist: Rival Consoles
+    youtube_key: NAAhbwxysKM
+  - title: "Rival Consoles | Kiasmos - Mix"
+    artist: Rival Consoles and Kiasmos
+    youtube_key: v-nzgkdFLbQ
 unsorted:
   - title: Soothing Moving
     artist: Lou Asril
