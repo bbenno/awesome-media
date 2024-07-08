@@ -24,6 +24,10 @@ electro:
   - title: Persistence Of Vision
     artist: The Future Sound of London
     youtube_key: IqenRttlGPU
+techno:
+  - title: Mad Scientist
+    artist: Nyctonian
+    youtube_key: R_bEyJ-Ou2c
 ambient:
   - title: Mellow
     artist: Boris Blend
@@ -31,6 +35,9 @@ ambient:
   - title: Metaphysical
     artist: Boris Blenn
     youtube_key: dBAkS2gav04
+  - title: Aleph (slowed x reverb)
+    artist: Gesaffelstein
+    youtube_key: mD4TOik9TCw
 sentual:
   - title: Untravel
     artist: Rival Consoles
@@ -52,6 +59,15 @@ compilations:
   - title: "Rival Consoles | Kiasmos - Mix"
     artist: Rival Consoles and Kiasmos
     youtube_key: v-nzgkdFLbQ
+  - title: Mix (Pt.1)
+    artist: Ben Böhmer and Lane 8
+    youtube_key: 5kO2aTSgZ-A
+  - title: Mix (Pt.2)
+    artist: Ben Böhmer and Lane 8
+    youtube_key: zed06wv0AQI
+  - title: Acid Jazz............in Japan？
+    artist: various
+    youtube_key: XJeD0963MJM
 unsorted:
   - title: Soothing Moving
     artist: Lou Asril
