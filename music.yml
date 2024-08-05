@@ -1,10 +1,13 @@
 tech:
-  - title: UNFORG1VEN & Sablin - LSD 25 (R3-V3 Remix)
+  - title: LSD 25 (R3-V3 Remix)
+    artist: UNFORG1VEN & Sablin
     youtube_key: d3gVWTEVgnk
-  - title: Format B - The Scoop
+  - title: The Scoop
+    artist: Format B
     youtube_key: Apc6CRLPz1U
 house:
-  - title: Ten Walls - Walking With Elephants
+  - title: Walking With Elephants
+    artist: Ten Walls
     youtube_key: rymUSbYQjw8
 dnb:
   - title: Dragon
@@ -12,6 +15,7 @@ dnb:
     youtube_key: aTX4MUbhdUo
   - title: Trip
     artist: Sub Focus & Metrik
+    youtube_key: N2aLozizSXw
   - title: Fractured
     artist: "Klinical & En:vy"
     youtube_key: 8FoVQJSeTIk
