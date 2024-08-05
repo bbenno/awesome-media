@@ -1,11 +1,7 @@
-tech:
-  - title: LSD 25 (R3-V3 Remix)
-    artist: UNFORG1VEN & Sablin
-    youtube_key: d3gVWTEVgnk
+house:
   - title: The Scoop
     artist: Format B
     youtube_key: Apc6CRLPz1U
-house:
   - title: Walking With Elephants
     artist: Ten Walls
     youtube_key: rymUSbYQjw8
@@ -30,6 +26,9 @@ electro:
     artist: The Future Sound of London
     youtube_key: IqenRttlGPU
 techno:
+  - title: LSD 25 (R3-V3 Remix)
+    artist: UNFORG1VEN & Sablin
+    youtube_key: d3gVWTEVgnk
   - title: Mad Scientist
     artist: Nyctonian
     youtube_key: R_bEyJ-Ou2c
