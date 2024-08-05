@@ -13,7 +13,8 @@ dnb:
   - title: Trip
     artist: Sub Focus & Metrik
   - title: Fractured
-    artist: Klinical & En vy
+    artist: "Klinical & En:vy"
+    youtube_key: 8FoVQJSeTIk
   - title: Baddadan ft. IRAH, Flowdan, Trigga, Takura
     artist: Chase & Status, Bou
     youtube_key: rkjNL4dX-U4
@@ -45,6 +46,12 @@ travel:
   - title: NTS April 2021
     artist: Kraeji w/ Yaeji & OHHYUK
     youtube_key: 8evwn8mdoOI
+  - title: Filastine (Beats Antique Remix)
+    artist: Colony Collapse
+    youtube_key: nV7t96Tnpmg
+  - title: Hypnosis Theme - (Phonovisions Symphonic Version)
+    artist: Wax Tailor
+    youtube_key: QBdAw2lVe0Y
 sentual:
   - title: Untravel
     artist: Rival Consoles
